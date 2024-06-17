@@ -17,6 +17,7 @@ Extended python libraries used:
  - 
  
 Screenshot of current version:
+
 ![image](images/DashboardScreenshot.png)
 
 # Structure of Code
