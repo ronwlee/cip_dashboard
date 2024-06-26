@@ -1,3 +1,11 @@
+"""
+Dashboard v1
+Ron Lee
+15 June 20254
+
+Version 1 - get weather and date time and disolay in simple window
+
+"""
 import json
 import requests
 
@@ -56,7 +64,7 @@ root.geometry("550x225")
 root.config(bg="white", highlightbackground="blue", highlightthickness=2)
 root.eval('tk::PlaceWindow . top')
 
-# create values
+# create values for labels
 
 # add timestamp label
 
